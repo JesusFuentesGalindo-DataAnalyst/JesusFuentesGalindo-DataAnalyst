@@ -6,6 +6,25 @@
 
 </div>
 
+<details>
+<summary>Misión</summary>
+Aplicar las mejores prácticas en el ciclo de vida del análisis de datos que permitan obtener toda la información necesaria para la toma de decisiones en el negocio.
+</details>
+
+<details>
+<summary>Visión</summary>
+Conseguir aplicar el modelo analítico preciso para cada proyecto particular con el fin de ayudar al negocio a alcanzar sus objetivos empresariales.
+</details>
+
+<details>
+<summary>Valores</summary>
+
+- Fomentar y basar la toma de decisiones a partir del análisis del dato.
+- Contar con una estrategía de medición.
+- Aplicar las mejores prácticas en el ciclo de vida del análisis de datos.
+
+</details>
+
 <!--
 **JesusFuentesGalindo-DataAnalyst/JesusFuentesGalindo-DataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
