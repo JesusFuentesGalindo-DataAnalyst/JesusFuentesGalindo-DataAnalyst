@@ -1,5 +1,11 @@
 # José de Jesús Fuentes Galindo - Analista de datos
 
+<div>
+
+<a href="https://www.credly.com/badges/64b42b68-fc16-43ac-9238-d9af10143634/public_url"><img src="Badges/data-analytics-essentials.png" width="75" height="75"></a>
+
+</div>
+
 <!--
 **JesusFuentesGalindo-DataAnalyst/JesusFuentesGalindo-DataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
