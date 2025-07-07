@@ -2,8 +2,12 @@
 
 <div>
 
-<a href="https://www.credly.com/badges/64b42b68-fc16-43ac-9238-d9af10143634/public_url"><img src="Badges/data-analytics-essentials.png" width="75" height="75"></a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="24095cba-4e29-43d6-97d7-700fac50ae5a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+| [Data Analytics Essentials][DAE]                                          | [Python Essentials 1][PE1]                                            |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <img src="Badges/data-analytics-essentials.png" width="100" height="100"> | <img src="Badges/python-essentials-1.1.png" width="100" height="100"> |
+
+[DAE]: https://www.credly.com/badges/64b42b68-fc16-43ac-9238-d9af10143634/public_url 'Data Analytics Essentials'
+[PE1]: https://www.credly.com/badges/24095cba-4e29-43d6-97d7-700fac50ae5a/public_url 'Python Essentials 1'
 
 </div>
 
